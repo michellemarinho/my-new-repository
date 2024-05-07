@@ -1,1 +1,1 @@
-# my-new-repository
+# my repository
